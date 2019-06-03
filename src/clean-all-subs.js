@@ -2,8 +2,8 @@ var bodyParser = require('body-parser');
 var request = require('request');
 
 var originator = "Cae-admin";
-var key = "changeme";
-var base= "http://104.248.33.8:8080/~";
+var key = "xxxxxxx";
+var base= "http://127.0.0.1:8080/~";
 var cseId = "server";
 var cseName = "server";
 	
